@@ -10,6 +10,9 @@ namespace WPF_HackerScreenSaver
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("On day I'll be a real screensaver!");
+            Console.ReadKey();
         }
     }
 }
